@@ -5,7 +5,7 @@ __Alexander Beers: Code Fellows Student__
 ---------------
 ## Code 301 - Intermediate Software Development
 * [Readings: Introduction to React and Components](Readings_Introduction-to-React-and-Components.md)
-
+* [Readings: State and Props](Readings_State-and-Props.md)
 
 ## Code 401 - Advanced Software Development
 
