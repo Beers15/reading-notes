@@ -7,6 +7,7 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Introduction to React and Components](Readings_Introduction-to-React-and-Components.md)
 * [Readings: State and Props](Readings_State-and-Props.md)
 * [Readings: Passing Functions as Props](Readings_Passing-Functions-as-Props.md)
+* [Readings: React and Forms](Readings_React-and-Forms.md)
 
 ## Code 401 - Advanced Software Development
 

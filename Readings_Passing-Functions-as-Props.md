@@ -1,8 +1,9 @@
 [Home](README.md)
 
 # Readings: Passing Functions as Props
-###### React Docs - lists and keys
+### React Docs - lists and keys
 ---------------
+
   Referenced the source below for answers<sup>1<sup>
 
   1. What does .map() return?
@@ -34,8 +35,11 @@
      
      Avoiding using array indexes as keys when possible since elements may rearrange in the array throughout the execution of your program.
 
-###### What is the spread operator?
+
+
+### What is the spread operator?
 ---------------
+
   Referenced the source below for answers<sup>2<sup>
 
   1. List 4 things that the spread operator can do.
@@ -56,7 +60,8 @@
      const obj3 = {...obj1, ...obj2}
 
 
-###### How to Pass Functions Between Components
+
+### How to Pass Functions Between Components
 ---------------
   Referenced the source below for answers<sup>3<sup>
 
@@ -73,12 +78,15 @@
   4. How does the child component invoke a method that was passed to it from a parent component?
      First, a function is created in the child component which invokes this.props.someParentFunction (or props.someParentFunction if it's a function component). Inside the body of the child component an event handler is set. When this is triggered, it calls the child component's function, which then calls the prop function that was given to it from the parent.
  
+
+
 ## Things I want to know more about
 ---------------
   * How exactly do keys help React indentify items that have changed, been added, or removed?
   * Refering to the video below, is it necessary to create an extra function to use as an event handler as described in question #4, or can a prop function be set directly as an event handler? 
 
   For example, in a child component, is \<MyElement onClick={this.props.someParentFunction} /> allowed directly or does there have to be an extra function like in the video \<MyElement onClick={this.someFncThatCallsParentFunction} />?
+
 
 ###### Works Cited
 <sup>1</sup> Lists and Keys, React, https://reactjs.org/docs/lists-and-keys.html
