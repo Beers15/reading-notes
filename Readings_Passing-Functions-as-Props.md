@@ -28,7 +28,11 @@
 
   4. What is the purpose of a key?
 
-    React needs these to help uniquely indentify when an element is changed, added, or removed from an array of elements within a component. _"Keys should be given to the elements inside the array to give the elements a stable identity."_<sup>1<sup> Avoiding using array indexes as keys when possible since elements may rearrange in the array throughout the execution of your program.
+     React needs these to help uniquely indentify when an element is changed, added, or removed from an array of elements within a component. 
+     
+     _"Keys should be given to the elements inside the array to give the elements a stable identity."_<sup>1<sup> 
+     
+     Avoiding using array indexes as keys when possible since elements may rearrange in the array throughout the execution of your program.
 
 ###### What is the spread operator?
 ---------------
