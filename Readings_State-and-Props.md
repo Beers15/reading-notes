@@ -3,8 +3,9 @@
 # Readings: State and Props
 ###### React lifecycle
 ---------------
+  Answers taken from source below<sup>1</sup>
 
-  1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? Answers taken from source below<sup>1</sup>
+  1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? 
 
      Render occurs first. 
   2. What is the very first thing to happen in the lifecycle of React?
@@ -23,6 +24,7 @@
 ###### React State Vs Props
 ---------------
   Answers taken fom source below <sup>2</sup>
+
   1. What types of things can you pass in the props?
       Values that can be used for initialization or values used for the rendering of a component are often passed to props. This similar to how the arguments of a function are used.
   
@@ -34,14 +36,13 @@
 
   4. What are some examples of things that we could store in state?
       Use state to store anything that will cause the component to re-render based of actions a user of the app takes. All data that needs to be handled inside a component itself, should be state. This could be form data, a counter, etc.
-
-    
+  
 ## Things I want to know more about
 ---------------
 * When to use various lifecycle methods via examples. 
 * What is meant in the article below about setting up subscriptions in componentDidMount.
-* 
 
 ###### Works Cited
 <sup>1</sup> Blankenship, Joshua _React: Component Lifecycle Events_, Medium Jul 8 2021, https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093
-<sup>2</sup> Web Dev Simplified. “React State Vs Props.” YouTube, uploaded by Big Think, Aug 27 2019, https://www.youtube.com/watch?v=IYvD9oBCuJI.
+
+<sup>2</sup> Web Dev Simplified. “React State Vs Props.” YouTube, Aug 27 2019, https://www.youtube.com/watch?v=IYvD9oBCuJI.
