@@ -9,16 +9,16 @@
 
   1. What is a ‘Controlled Component’?
 
-    A controlled component is a form element where the data is controlled by React, as the component's state. This makes "the React state the source of truth".<sup>1<sup>
+  A controlled component is a form element where the data is controlled by React, as the component's state. This makes "the React state the source of truth".<sup>1<sup>
 
   2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 
-    We should store the value of a form as soon as a user enters them. This is done so that React can immediately update its state as. I would assume this is also done so that React can quickly re-render the appropriate content, resulting in a highly responsive application.
+  We should store the value of a form as soon as a user enters them. This is done so that React can immediately update its state as. I would assume this is also done so that React can quickly re-render the appropriate content, resulting in a highly responsive application.
 
 
   3. How do we target what the user is entering if we have an event handler on an input field?
 
-    We do this by passing an event parameter to the method that an event handle attribute was passed (for example, onChange={handleChange} ). 
+  We do this by passing an event parameter to the method that an event handle attribute was passed (for example, onChange={handleChange} ). 
 
     handleChange(e) {
       this.setState({myStateField: e.target.value});
@@ -35,11 +35,11 @@
   
   2. Rewrite the following statement using a ternary statement:
 
-    if(x===y){
-    console.log(true);
-    } else {
-    console.log(false);
-    }
+      if(x===y){
+      console.log(true);
+      } else {
+      console.log(false);
+      }
 
     **x === y ? console.log(true) : console.log(false)**
 
