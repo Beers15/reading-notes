@@ -8,22 +8,22 @@
 Referenced the source below for answers<sup>1<sup>
 
 
-1. How would you break a mock into a component heirarchy?
+1. How would you break a mock into a component hierarchy?
 
-  Create a diagram with every component within your application. Applying the single resposibility priniciple can help you determine if something should be considered a component that will be applied to your diagram. Drawing your UI and denoting each individual component is a good way to accomplish this as well.
-  
+Create a diagram with every component within your application. Applying the single resposibility priniciple can help you determine if something should be considered a component that will be applied to your diagram. Drawing your UI and denoting each individual component is a good way to accomplish this as well.
+
 
 2. What is the single responsibility principle and how does it apply to components?
 
-   A component should only have a single purpose. If your component ends up taking on more than one task, break it up into multiple components.
+A component should only have a single purpose. If your component ends up taking on more than one task, break it up into multiple components.
 
 3. What does it mean to build a ‘static’ version of your application?
 
-  This can be done by building a version of your app that reuses components that you've created. Pass props as needed and ignore state in the static version of your app since static the static version doesn't need interactivity.
+This can be done by building a version of your app that reuses components that you've created. Pass props as needed and ignore state in the static version of your app since static the static version doesn't need interactivity.
 
 4. Once you have a static application, what do you need to add?
 
-  Once the static version of your application is complete, you can implement state to make your app interactive. Minimize state as much as possible.
+Once the static version of your application is complete, you can implement state to make your app interactive. Minimize state as much as possible.
 
 5. What are the three questions you can ask to determine if something is state?
 
