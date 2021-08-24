@@ -10,6 +10,8 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: React and Forms](Readings_React-and-Forms.md)
 * [Readings: Putting it all together](Readings_Putting-it-all-together.md)
 * [Readings: NODE.js](Readings_Nodejs.md)
+* [Readings: REST](Readings_REST.md)
+
 
 ## Code 401 - Advanced Software Development
 
