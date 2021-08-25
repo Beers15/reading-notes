@@ -8,7 +8,8 @@
 Referenced the source below for answers<sup>1<sup>
 
 1. Who is Roy Fielding?
-  An individual who helped write the first web servers> He created the REST architectural style for building APIs. 
+  
+  An individual who helped write the first web servers. He created the REST architectural style for building APIs. 
 
 
 2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
