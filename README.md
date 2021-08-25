@@ -11,6 +11,7 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Putting it all together](Readings_Putting-it-all-together.md)
 * [Readings: NODE.js](Readings_Nodejs.md)
 * [Readings: REST](Readings_REST.md)
+* [Readings: APIs](Readings_APIs.md)
 
 
 ## Code 401 - Advanced Software Development
