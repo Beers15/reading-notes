@@ -13,6 +13,7 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: REST](Readings_REST.md)
 * [Readings: APIs](Readings_APIs.md)
 * [Readings: Functional Programming](Readings_Functional-Programming.md)
+* [Readings: Memory in Storage](Readings_Memory-in-Storage.md)
 
 
 ## Code 401 - Advanced Software Development

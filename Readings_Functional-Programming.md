@@ -60,9 +60,6 @@ Referenced the source below for answers<sup>2<sup>
 ---------------
 * Aside from often being easier to test and read, what are some benefits of functional programming?
 
-*
-
-
 
 ###### Works Cited
 
