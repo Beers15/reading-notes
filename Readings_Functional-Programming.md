@@ -52,10 +52,6 @@ Referenced the source below for answers<sup>2<sup>
    In the file that is to be made into a module, assign whatever needs to be exported to the module.exports object. Then install it from npm or prepend the appropriate path to where it is within our project's code.
 
 
-
-
-Referenced the source below for answers<sup>2<sup>
-
 ## Things I want to know more about
 ---------------
 * Aside from often being easier to test and read, what are some benefits of functional programming?
