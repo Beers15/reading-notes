@@ -15,7 +15,7 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Functional Programming](Readings_Functional-Programming.md)
 * [Readings: Memory in Storage](Readings_Memory-in-Storage.md)
 * [Readings: Mongo and Mongoose](Readings_Mongo-and-Mongoose.md)
-
+* [Readings: CRUD](Readings_CRUD.md)
 
 ## Code 401 - Advanced Software Development
 

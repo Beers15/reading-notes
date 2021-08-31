@@ -71,7 +71,7 @@ Referenced the source below for answers<sup>2<sup>
 
 4. What is a ‘type error’?
 
-  This error happens when arguments to functions are used that are an incompatiable type to what is exected, and when accessing a property of something that is undefined. 
+  This error happens when arguments to functions are used that are an incompatiable type to what is expected, and when accessing a property of something that is undefined. 
 
 5. What is a breakpoint?
 
