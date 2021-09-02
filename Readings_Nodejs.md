@@ -57,13 +57,13 @@ Referenced the source below for answers<sup>2<sup>
 
 3. How does pair programming work?
 
-  One driver and one navigator work together to produce code. The driver is the manning the keyboard who manages the IDE or text editior. The navigaor guides the driver and provides constant feedback and advice.
+  One driver and one navigator work together to produce code. The driver is the manning the keyboard who manages the IDE or text editior. The navigator guides the driver and provides constant feedback and advice.
 
 
 
 ## Things I want to know more about
 ---------------
-* 
+
 
 ###### Works Cited
 <sup>1</sup> Hibbard, James _What is Node and When shouldI Use It_, Sitepoint Feb 16 2020, https://www.sitepoint.com/an-introduction-to-node-js/

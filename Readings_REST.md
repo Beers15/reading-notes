@@ -22,20 +22,20 @@ Referenced the source below for answers<sup>1<sup>
 
 4. What does a GET do?
 
-  An HTTP verb that fetches a resource.
+  A HTTP verb that fetches a resource.
 
 5. What does a POST do?
 
-  An HTTP verb that allows one systme to add a resource to another system
+  A HTTP verb that allows one systme to add a resource to another system
 
 6. What does PUT do?
 
-  PUT is an HTTP verb replaces a specified resource.
+  PUT is a HTTP verb replaces a specified resource.
 
 
 7. What does PATCH do?
 
-  PATCH is an HTTP verb that does a partial update of the specified resource.
+  PATCH is a HTTP verb that does a partial update of the specified resource.
 
 
 ## Things I want to know more about

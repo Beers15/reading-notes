@@ -9,7 +9,7 @@ Referenced the source below for answers<sup>1<sup>
 
 1. In your own words, describe what each group of status code represents:
 
-  100’s = This series of codes signifies that a information response will be sent and that the server will try to send back what was requested
+  100’s = This series of codes signifies that an informational response will be sent and that the server will try to send back what was requested
         
   200’s = This series signifies various types of successful requests.
         
@@ -46,6 +46,7 @@ Referenced the source below for answers<sup>1<sup>
 Referenced the source below for answers<sup>2<sup>
 
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
+  To keep it from showing in our source code and maintain database security.
 
 
 2. What is middleware?

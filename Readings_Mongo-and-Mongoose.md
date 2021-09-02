@@ -34,7 +34,7 @@ e. *NOSQL* queries are focused on a large collection of documents with a varying
 
 4. Give a real world example.
 
-  "Return all the managers who work for regional manager X. From this return all the employees for each one work work in department Y". A NoSQL database may be a good choice here.
+  "Return all the managers who work for regional manager X. For each returned manager, return all the employees who work in department Y". A NoSQL database may be a good choice here.
 
 5. Which type of database is best for hierarchical data storage?
 
