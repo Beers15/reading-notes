@@ -7,13 +7,13 @@
 
 Referenced the source below for answers<sup>1<sup>
 
-1. What occured during the same time as the beginning of the decline of women in computer sciene?
+1. What occured during the same time as the beginning of the decline of women in computer science?
 
   This number declined when personal computers started showing up at home.
 
 2. Why does it matter that males had been playing on computers growing up?
 
-  Techie culture and movie culture promoted male 'geeky' figures more than females. Computers were marketed for males more as well, and consequently more men had PCs.
+  Techie culture and movie culture promoted male 'geeky' figures more than females. Computers were marketed for males more as well, and consequently more men had PCs. These imbalanced cultural norms led to males having more exposure to computer science.
 
 ### Employee breakdown of key technology companies
 ---------------
@@ -40,7 +40,7 @@ Referenced the source below for answers<sup>3<sup>
 
 3. Give an example of how a diverse company can serve a diverse user base or vise-versa.
 
-  The company considers can better see things from multiple perspectives and designs products for a wider range of clients. One such example in the reading is how YouTube build apps overwhelmingly for right handed people resulting in many upside down video uploadeds by lefties.
+  The company considers can better see things from multiple perspectives and designs products for a wider range of clients. One such example in the reading is how YouTube built apps that were overwhelmingly meant for right handed people resulting in many upside down video uploads by lefties.
 
 
 ## Things I want to know more about
