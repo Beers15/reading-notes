@@ -2,9 +2,7 @@
 
 # Code 301 Principal Readings Topics
 
-### Understanding the JavaScript Call Stack
-
-###### Construct a fill-in-the-blank worksheet for the topic
+###### This fill-in-the-blank worksheet covers concepts from the readings:
 
 1. Rest stands for _ _ _ (3 words).
 
