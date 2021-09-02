@@ -17,7 +17,7 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Mongo and Mongoose](Readings_Mongo-and-Mongoose.md)
 * [Readings: CRUD](Readings_CRUD.md)
 * [Readings: Diversity and Inclusion in the Tech Industry](eadings_Diversity-and-Inclusion-in-the-Tech-Industry.md)
-* [Readings: Authentication](eadings_Authentication.md)
+* [Readings: Authentication](Readings_Authentication.md)
 
 ## Code 401 - Advanced Software Development
 
