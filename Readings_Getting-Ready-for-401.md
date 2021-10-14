@@ -15,7 +15,7 @@
 
 ###### All these readings essentially discuss how to properly solve problems and learn more effectively/efficiently. 
 
-###### I give a brief tutorial on problem solving, as I understand it from the readings.
+###### Here is a brief tutorial on problem solving, as I understand it from the readings.
 
 
 ----
@@ -32,7 +32,7 @@
     
     listed in the section below, but they generally advise a similar approach. All in all, the problem solving steps coupled 
     
-    with the mentality on time managment touched on here will promote success when solving problems.
+    with the mentality on time management touched on here will promote success when solving problems.
     
 
 ### Problem Solving Steps
@@ -62,9 +62,9 @@ The Articles listed below were used for summarizing these ideas <sup>1, 3</sup>.
 
 3) Now you're ready to manually solve the problem. List out the steps that are needed. While doing this it is especially important to
 
-    break down the problem into subproblems and tackle them by order of simplicity. To state the obvious, smaller problems are easier 
+    break down the problem into sub-problems and tackle them by order of simplicity. To state the obvious, smaller problems are easier 
     
-    to solve than larger ones. If a subproblem is still too challenging, break it down even further into baby steps that are solvable. 
+    to solve than larger ones. If a sub-problem is still too challenging, break it down even further into baby steps that are solvable. 
     
     The readings mentioned using an approach similar to mathematical induction to accomplish this. Solving the problem for an input 
     
@@ -72,7 +72,7 @@ The Articles listed below were used for summarizing these ideas <sup>1, 3</sup>.
     
     input of size 'N' is a very valid problem solving approach. Once you've finished this divide and conquer approach, take your 
     
-    solved subproblems and put the pieces back together to create a solution for the larger problem <sup>3</sup>. 
+    solved sub-problems and put the pieces back together to create a solution for the larger problem <sup>3</sup>. 
     
     
         There is some consensus that up to 70% of your time should be spent on these first steps 1
@@ -88,14 +88,14 @@ The Articles listed below were used for summarizing these ideas <sup>1, 3</sup>.
 
     to have a lower time complexity and/or space complexity. By following these steps, and enough practice, a programmer should 
     
-    be able to demystify even the most complciated problems. 
+    be able to demystify even the most complicated problems. 
 
 
 
 
 ## Things I want to know more about
 ---------------
-* The steps above are clear to me and provide a general workflow for problem solving. I'd like to know more about the common techniques that are used when solving algorithmic techniques.
+* The steps above are clear to me and provide a general workflow for problem solving. I'd like to know more about the common techniques that are used when solving algorithmic problems.
 
 
 
