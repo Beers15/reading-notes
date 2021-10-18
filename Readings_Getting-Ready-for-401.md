@@ -22,7 +22,7 @@
 
 * One of the key points from the readings was the difference between busywork and focused work. 
 
-    Business can be a sign of weakness and mental laziness <sup>2</sup>. Time is valuable oh so valuable. By being focused, 
+    Busyness can be a sign of weakness and mental laziness <sup>2</sup>. Time is valuable oh so valuable. By being focused, 
     
     methodical, and calculated, we can do much more in much less time. This definitely applies to solving 
     
