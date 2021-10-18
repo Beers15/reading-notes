@@ -23,3 +23,4 @@ __Alexander Beers: Code Fellows Student__
 ## Code 401 - Advanced Software Development
 
 * [Readings: Getting Ready for 401](Readings_Getting-Ready-for-401.md)
+* [Readings: Node Ecosystem, TDD, CI/CD](Readings_Node-Ecosystem-TDD-CICD.md)
