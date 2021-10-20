@@ -122,6 +122,21 @@ Routing is the actions a web server takes when a user makes a request to a certa
 This stands for the Web Request Response cycle. A client makes a HTTP request to a server that uses one of the HTTP methods. THe server processes that request and sends a response back.
 
 
+### Preview
+
+
+1) Which 3 things had you heard about previously and now have better clarity on?
+
+  Express, TDD, and route handlers
+
+2) Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+
+  Mocking apis in order to test them, unit testing, and publishing to NPM
+
+3) What are you most excited about trying to implement or see how it works?
+
+  Going more in depth with jest for TDD and configuring tests for continuous integration.
+
 ### Things I want to know more about
 
 ---------------
