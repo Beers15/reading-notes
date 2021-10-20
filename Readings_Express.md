@@ -56,6 +56,7 @@ This stands for the Web Request Response cycle. A client makes a HTTP request to
 
 ---------------
 
+<<<<<<< HEAD
 #### Works Cited
 
 <sup>1</sup>Ola, Segun, _RESTful API Design — PUT vs PATCH_, Segunolalive, Mar 13 2018, https://blog.segunolalive.com/posts/restful-api-design-%E2%80%94-put-vs-patch/
@@ -141,6 +142,8 @@ This stands for the Web Request Response cycle. A client makes a HTTP request to
 
 ---------------
 
+=======
+>>>>>>> 496a0fe68001254e34f118fd854157c5733456cd
 * How to develop an API using the SOAP protocol.
 
 * How to utilize mock API tools and documentation generation tools+services like apiDoc and Swagger when building a web application.

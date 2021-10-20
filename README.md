@@ -24,4 +24,8 @@ __Alexander Beers: Code Fellows Student__
 
 * [Readings: Getting Ready for 401](Readings_Getting-Ready-for-401.md)
 * [Readings: Node Ecosystem, TDD, CI/CD](Readings_Node-Ecosystem-TDD-CICD.md)
+<<<<<<< HEAD
 * [Readings: Express](Readings_Express.md)
+=======
+* [Readings: Express](Readings_Express.md)
+>>>>>>> 496a0fe68001254e34f118fd854157c5733456cd
