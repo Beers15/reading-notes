@@ -26,3 +26,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Node Ecosystem, TDD, CI/CD](Readings_Node-Ecosystem-TDD-CICD.md)
 * [Readings: Express](Readings_Express.md)
 * [Readings: Express REST API](Readings_Express-REST-API.md)
+* [Readings: Data Modeling](Readings_Data-Modeling.md)
