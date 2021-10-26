@@ -1,6 +1,6 @@
 [Home](README.md)
  
-# Readings: Express REST API
+# Readings: Authentication
  
 ## Review, Research, and Discussion
  

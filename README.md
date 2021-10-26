@@ -28,3 +28,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Express REST API](Readings_Express-REST-API.md)
 * [Readings: Data Modeling](Readings_Data-Modeling.md)
 * [Readings: Data Modeling](Readings_Authentication-401.md)
+* [Readings: Bearer Authorization](Readings_Bearer-Authorization.md)
