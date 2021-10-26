@@ -34,7 +34,7 @@
  
 * Objected-oriented programming
 
-  This is a programming paradigm that revolves creating classes that can be used to instantiate bundles of related logic and data, or objects.
+  This is a programming paradigm that revolves around creating classes that can be used to instantiate bundles of related logic and data, or objects.
  
 * class
  

@@ -27,3 +27,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Express](Readings_Express.md)
 * [Readings: Express REST API](Readings_Express-REST-API.md)
 * [Readings: Data Modeling](Readings_Data-Modeling.md)
+* [Readings: Data Modeling](Readings_Authentication-401.md)
