@@ -30,3 +30,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Data Modeling](Readings_Authentication-401.md)
 * [Readings: Bearer Authorization](Readings_Bearer-Authorization.md)
 * [Readings: Access Control (ACL)](Readings_Access-Control.md)
+* [Readings: Authorization/Authentication](Readings_Authorization-Authentication.md)
