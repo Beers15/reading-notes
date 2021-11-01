@@ -31,3 +31,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Bearer Authorization](Readings_Bearer-Authorization.md)
 * [Readings: Access Control (ACL)](Readings_Access-Control.md)
 * [Readings: Authorization/Authentication](Readings_Authorization-Authentication.md)
+* [Readings: Event Driven Applications](Readings_Event-Driven-Applications.md)
