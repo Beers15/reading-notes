@@ -33,3 +33,5 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Authorization/Authentication](Readings_Authorization-Authentication.md)
 * [Readings: Event Driven Applications](Readings_Event-Driven-Applications.md)
 * [Readings: Socket.io](Readings_Socket-io.md)
+* [Readings: AWS: Cloud Servers](Readings_AWS-Cloud-Servers.md)
+* [Readings: AWS: S3 and Lambda](Readings_AWS-S3-Lambda.md)
