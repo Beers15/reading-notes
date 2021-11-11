@@ -36,3 +36,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: AWS: Cloud Servers](Readings_AWS-Cloud-Servers.md)
 * [Readings: AWS: S3 and Lambda](Readings_AWS-S3-Lambda.md)
 * [Readings: AWS: API, Dynamo, and Lambda](Readings_AWS-API-Dynamo-Lambda.md)
+* [Readings: AWS: Events](Readings_AWS-Events.md)
