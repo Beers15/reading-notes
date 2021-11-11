@@ -30,7 +30,7 @@ Pub/Sub
 
 WRRC
 
-  * Web Request Reponse Cycle: The cycle that describes the data flow of a user's request as it is sent to an endpoint, through the corresponding server, and then back to the user as a response.
+  * Web Request Response Cycle: The cycle that describes the data flow of a user's request as it is sent to an endpoint, through the corresponding server, and then back to the user as a response.
 
 ### Preview
 
