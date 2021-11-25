@@ -38,3 +38,5 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: AWS: API, Dynamo, and Lambda](Readings_AWS-API-Dynamo-Lambda.md)
 * [Readings: AWS: Events](Readings_AWS-Events.md)
 * [Readings: Component Based UI](Readings_Component-Based-UI.md)
+* [Readings: The useState() Hook](Readings_useState-Hook.md)
+* [Readings: Hash Tables](Readings_Hash-Tables.md)
