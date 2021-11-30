@@ -40,3 +40,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Component Based UI](Readings_Component-Based-UI.md)
 * [Readings: The useState() Hook](Readings_useState-Hook.md)
 * [Readings: Hash Tables](Readings_Hash-Tables.md)
+* [Readings: Component Lifecycle / useEffect() Hook](Readings_Component-Lifecycle-useEffect-Hook.md)
