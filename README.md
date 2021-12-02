@@ -43,3 +43,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Component Lifecycle / useEffect() Hook](Readings_Component-Lifecycle-useEffect-Hook.md)
 * [Readings: Advanced State with Reducers](Readings_Advanced-State-with-Reducers.md)
 * [Readings: Context API](Readings_Context-API.md)
+* [Readings: Context API](Readings_Context-API-Behaviors.md)

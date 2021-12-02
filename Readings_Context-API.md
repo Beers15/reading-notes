@@ -51,7 +51,7 @@ reducer
  
 3) What are you most excited about trying to implement or see how it works?
  
-    * Building an app that manages complex state use reducers via the useReducer hook or Redux
+    * Building an app that manages complex state by using reducers via the useReducer hook or Redux
 
 --------------
 
