@@ -1,6 +1,6 @@
 [Home](README.md)
  
-# Readings: API Integration
+# Readings: Application State with Redux
  
 ## Review, Research, and Discussion
  
@@ -17,7 +17,7 @@ All answers taken from the resources below
 
 3) How do pixel tags work?
 
-  * Pixel tags represent an element on a webpage and contains all sorts of information on that element. They are often used by sites to obtain information about the user browsing a webpage. This information is used to create (often unwanted) cookies that are sent to the users browser and perform other actions such as tracking (e.g. add servers read pixel tags from the pages you visit to tailor adds for you).
+  * Pixel tags represent an element on a webpage and contain all sorts of information on that element. They are often used by sites to obtain information about the user browsing a webpage. This information is used to create (often unwanted) cookies that are sent to the users browser and perform other actions such as tracking or ad calibration.
 
 ### Vocabulary terms
 
