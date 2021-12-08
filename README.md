@@ -46,3 +46,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Context API](Readings_Context-API-Behaviors.md)
 * [Readings: <Login /> and <Auth />](Readings_Login-and-Auth.md)
 * [Readings: API Integration](Readings_API-Integration.md)
+* [Readings: Application State with Redux](Readings_Application-State-with-Redux.md)

@@ -5,7 +5,7 @@
 ## Review, Research, and Discussion
  
 ---------------
-All answers taken from resources supplied in prompt
+All answers taken from the resources below
 
 1) How do bearer tokens work?
 
