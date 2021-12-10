@@ -1,6 +1,6 @@
 [Home](README.md)
  
-# Readings: API Integration
+# Readings: Combined Reducers
  
 ## Review, Research, and Discussion
  
