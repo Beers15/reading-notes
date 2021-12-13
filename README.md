@@ -49,3 +49,4 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Application State with Redux](Readings_Application-State-with-Redux.md)
 * [Readings: Combined Reducers](Readings_Combined-Reducers.md)
 * [Readings: Redux - Asynchronous Actions](Readings_Redux-Asynchronous-Actions.md)
+* [Readings: Redux - Additional Topics](Readings_Redux-Additional-Topics.md)
