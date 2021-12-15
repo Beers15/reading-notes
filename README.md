@@ -50,3 +50,5 @@ __Alexander Beers: Code Fellows Student__
 * [Readings: Combined Reducers](Readings_Combined-Reducers.md)
 * [Readings: Redux - Asynchronous Actions](Readings_Redux-Asynchronous-Actions.md)
 * [Readings: Redux - Additional Topics](Readings_Redux-Additional-Topics.md)
+* [Readings: React Native](Readings_React-Native.md)
+* [Readings: Ethics in Tech](Readings_Ethics-in-Tech.md)
